@@ -102,7 +102,8 @@ After applying the Kubernetes configuration, the React Todo App will be running 
 
 http://<Node-IP>:30964
 
-![image](https://github.com/user-attachments/assets/4e045a95-279c-4e40-b97a-ba7838cbee5a)
+![React Todo List](https://github.com/mateenshaik/React-Todo-list/blob/main/React-app.png)
+
 
 
 
